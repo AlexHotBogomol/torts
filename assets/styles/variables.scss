@@ -1,0 +1,26 @@
+$text-color: #462426;
+$accent-color: #FFE382;
+$light-color: #FFFFFF;
+$bg-color: #F8ECE6;
+$btn-color: #5F3133;
+
+$heading-font: "Playfair Display", "Times New Roman", serif;
+$text-font: "Circe", "Arial", sans-serif;
+
+//grid
+$grid-breakpoints: (
+        xs: 0,
+        sm: 576px,
+        md: 768px,
+        lg: 992px,
+        xl: 1200px,
+        xxl: 1600px,
+);
+
+$container-max-widths: (
+        sm: 540px,
+        md: 720px,
+        lg: 960px,
+        xl: 1140px,
+        xxl: 1390px,
+);

@@ -1,0 +1,16 @@
+@import "./fonts";
+@import "./variables";
+
+@import "../../node_modules/bootstrap/scss/bootstrap-reboot";
+@import "../../node_modules/bootstrap/scss/grid";
+@import "../../node_modules/bootstrap/scss/utilities";
+@import "../../node_modules/bootstrap/scss/images";
+
+@import "./general";
+@import "./header";
+@import "./home";
+@import "./footer";
+
+
+
+@import "./media";
